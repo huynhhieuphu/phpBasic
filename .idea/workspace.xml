@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15d92598-08d9-47ea-8552-ff8a2f6dda9d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1663513023" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1663513022" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectId" id="29tAxp7UME7QKbKHNE13kNyTKGc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/b1/function09/info01" />
+      <recent name="$PROJECT_DIR$/b1/function09" />
+      <recent name="$PROJECT_DIR$/b1/import06/demo" />
+      <recent name="$PROJECT_DIR$/b1/condition04" />
+      <recent name="$PROJECT_DIR$/b1/operators03" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15d92598-08d9-47ea-8552-ff8a2f6dda9d" name="Default Changelist" comment="" />
+      <created>1653922258022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653922258022</updated>
+      <workItem from="1653922259773" duration="47000" />
+      <workItem from="1653924263708" duration="225000" />
+      <workItem from="1653924550792" duration="17000" />
+      <workItem from="1654008870815" duration="772000" />
+      <workItem from="1654009781903" duration="127000" />
+      <workItem from="1654083017923" duration="335000" />
+      <workItem from="1654083371263" duration="140000" />
+      <workItem from="1654083531875" duration="828000" />
+      <workItem from="1654609548949" duration="30000" />
+      <workItem from="1654783434321" duration="2379000" />
+      <workItem from="1654786452804" duration="2042000" />
+      <workItem from="1655127287746" duration="3428000" />
+      <workItem from="1655216381023" duration="1474000" />
+      <workItem from="1655301355908" duration="2357000" />
+      <workItem from="1655305852273" duration="733000" />
+      <workItem from="1655387156429" duration="3774000" />
+      <workItem from="1655476370075" duration="4382000" />
+      <workItem from="1655638689212" duration="1766000" />
+      <workItem from="1655822778889" duration="1536000" />
+      <workItem from="1656512821761" duration="1745000" />
+      <workItem from="1657119349313" duration="909000" />
+      <workItem from="1657549049240" duration="1783000" />
+      <workItem from="1657634857448" duration="2866000" />
+      <workItem from="1658149544588" duration="6768000" />
+      <workItem from="1658326712711" duration="1959000" />
+      <workItem from="1658328863916" duration="163000" />
+      <workItem from="1658412838220" duration="3150000" />
+      <workItem from="1658672295850" duration="3292000" />
+      <workItem from="1658757182627" duration="2598000" />
+      <workItem from="1658931938051" duration="2766000" />
+      <workItem from="1659099642110" duration="214000" />
+      <workItem from="1659359667907" duration="288000" />
+      <workItem from="1659536717050" duration="1571000" />
+      <workItem from="1659623738722" duration="3719000" />
+      <workItem from="1660573010673" duration="2664000" />
+      <workItem from="1660657848955" duration="2603000" />
+      <workItem from="1660834592171" duration="2233000" />
+      <workItem from="1661177146779" duration="1243000" />
+      <workItem from="1661264754362" duration="4914000" />
+      <workItem from="1661349999817" duration="4521000" />
+      <workItem from="1661438140316" duration="7510000" />
+      <workItem from="1662994165838" duration="304000" />
+      <workItem from="1662994614262" duration="919000" />
+      <workItem from="1663510818151" duration="2233000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="231" key="#Notifications" timestamp="1655823306857">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="371" y="231" key="#Notifications/0.0.1280.800@0.0.1280.800" timestamp="1655823306857" />
+    <state x="279" y="82" width="717" height="636" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1655823287019">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="279" y="82" width="717" height="636" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1280.800@0.0.1280.800" timestamp="1655823287019" />
+    <state x="477" y="344" key="NewPhpFileDialog" timestamp="1663511948197">
+      <screen x="25" y="23" width="1255" height="777" />
+    </state>
+    <state x="461" y="330" key="NewPhpFileDialog/0.0.1280.800@0.0.1280.800" timestamp="1658931955248" />
+    <state x="477" y="344" key="NewPhpFileDialog/25.23.1255.777@25.23.1255.777" timestamp="1663511948197" />
+    <state x="161" y="50" key="SettingsEditor" timestamp="1662994570498">
+      <screen x="25" y="23" width="1255" height="777" />
+    </state>
+    <state x="139" y="28" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1659624249667" />
+    <state x="161" y="50" key="SettingsEditor/25.23.1255.777@25.23.1255.777" timestamp="1662994570498" />
+    <state x="100" y="100" width="1080" height="600" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1658327054411">
+      <screen x="25" y="23" width="1255" height="777" />
+    </state>
+    <state x="100" y="100" width="1080" height="600" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/25.23.1255.777@25.23.1255.777" timestamp="1658327054411" />
+    <state x="265" y="0" width="789" height="800" key="find.popup" timestamp="1657549944582">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="265" y="0" width="789" height="800" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1657549944582" />
+    <state x="298" y="104" width="670" height="676" key="search.everywhere.popup" timestamp="1658153845391">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="298" y="104" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1658153845391" />
+  </component>
+</project>
