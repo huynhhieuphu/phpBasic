@@ -62,8 +62,10 @@ $students[11] = 'Cao Thang';
 $students['name'] = 'Ho Quang Hieu';
 
 //Nếu không tồn tại key hoặc để rỗng key, sẽ tự hiểu thêm mới
-$students[] = 'lorem ipsum';
-$students['address'] = 'Minh Phung';
+//Ngược lại nếu tồn tại thì sẽ sữa mới
+$students[] = 'lorem ipsum'; // thêm
+$students['address'] = 'Minh Phung'; // thêm
+$students['name'] = 'Tony Stark'; // sữa
 
 /**
  * Xoá phần tử trong mảng
