@@ -63,21 +63,15 @@ $customers = [
         "address" => "471-2122 Neque St."
     ],
     [
-        "name" => "Hector Neal 2",
-        "phone" => "1-452-661-3176",
-        "email" => "phasellus@aol.couk",
-        "address" => "471-2122 Neque St."
-    ],
-    [
-        "name" => "Kristen Richard 3",
-        "phone" => "(762) 953-8672",
-        "email" => "dignissim@aol.com",
-        "address" => "888-8358 Laoreet Road"
+        "name" => "Len Farley 2",
+        "phone" => "(836) 381-6169",
+        "email" => "mauris.ipsum.porta@outlook.org",
+        "address" => "9637 Scelerisque Road"
     ],
 ];
 
 if(!empty($customers)) {
-    //Tìm phần tử mảng trùng
+    //Tìm phần tử mảng trùng (lấy key trùng)
     $countCustomer = count($customers);
     $customerDuplicate = []; // Lưu trữ các index trùng
     for ($i = 0; $i < ($countCustomer - 1); $i++) {
@@ -118,7 +112,7 @@ if(!empty($customers)) {
                         <td><?= $customer['name'] ?></td>
                         <td><?= $customer['phone'] ?></td>
                         <td><?= $customer['email'] ?></td>
-                        <td><?= $customer['name'] ?></td>
+                        <td><?= $customer['address'] ?></td>
                     </tr>
             <?php $count++; endforeach; else: ?>
                 <tr>
