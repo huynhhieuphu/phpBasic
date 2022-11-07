@@ -1,6 +1,7 @@
 <?php
 /*
  * Bài 4: Tìm giá trị lớn nhất, nhỏ nhất của mảng 1 chiều
+ * Kỹ thuật đặt lính canh
  */
 $numbers = [20, 36, 14, 29, 11, 8, 10, 22];
 

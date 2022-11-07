@@ -1,6 +1,7 @@
 <?php
 /**
  * Bài 5: Tìm thông tin khách hàng có tuổi nhỏ nhất (Mảng đa chiều)
+ * Kỹ thuật đặt lính canh
  */
 
 $customers = [
