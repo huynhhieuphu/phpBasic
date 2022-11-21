@@ -14,9 +14,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15d92598-08d9-47ea-8552-ff8a2f6dda9d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/b1/array11/execise6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b1/array11/execise7.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b1/array11/myFunc.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/array11/execise4.php" beforeDir="false" afterPath="$PROJECT_DIR$/b1/array11/execise4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/array11/execise5.php" beforeDir="false" afterPath="$PROJECT_DIR$/b1/array11/execise5.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +135,9 @@
       <workItem from="1665577441900" duration="3497000" />
       <workItem from="1665584296501" duration="2625000" />
       <workItem from="1667225184631" duration="2011000" />
-      <workItem from="1667830196405" duration="2674000" />
+      <workItem from="1667830196405" duration="2701000" />
+      <workItem from="1668430779407" duration="1485000" />
+      <workItem from="1669040425946" duration="1865000" />
     </task>
     <servers />
   </component>
@@ -154,18 +157,17 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="477" y="344" key="NewPhpFileDialog" timestamp="1667832803546">
+    <state x="477" y="344" key="NewPhpFileDialog" timestamp="1669041792966">
       <screen x="25" y="23" width="1255" height="777" />
     </state>
-    <state x="477" y="344" key="NewPhpFileDialog/25.23.1255.777@25.23.1255.777" timestamp="1667832803546" />
+    <state x="477" y="344" key="NewPhpFileDialog/25.23.1255.777@25.23.1255.777" timestamp="1669041792966" />
     <state x="161" y="50" key="SettingsEditor" timestamp="1665410672971">
       <screen x="25" y="23" width="1255" height="777" />
     </state>
-    <state x="139" y="28" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1659624249667" />
     <state x="161" y="50" key="SettingsEditor/25.23.1255.777@25.23.1255.777" timestamp="1665410672971" />
-    <state x="317" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1667831174039">
+    <state x="317" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1668431409180">
       <screen x="25" y="23" width="1255" height="777" />
     </state>
-    <state x="317" y="124" width="670" height="676" key="search.everywhere.popup/25.23.1255.777@25.23.1255.777" timestamp="1667831174039" />
+    <state x="317" y="124" width="670" height="676" key="search.everywhere.popup/25.23.1255.777@25.23.1255.777" timestamp="1668431409180" />
   </component>
 </project>
