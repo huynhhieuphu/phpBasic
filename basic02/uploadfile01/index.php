@@ -14,7 +14,7 @@
  * Biến toàn cục $_FILE lưu trữ thông tin tập tin tải lên.
  *
  * Hàm move_uploaded_file() di chuyển tập tin đã tải đến vị trí mới.
- * Hàm @move_uploaded_file() tính năng y vậy, nhưng sẽ không hiền thị báo lỗi nếu FALSE.
+ * Hàm @move_uploaded_file() tính năng y chang, nhưng sẽ không hiền thị báo lỗi nếu FALSE.
  */
 if($_SERVER['REQUEST_METHOD'] === 'POST') {
     $allowExt = ['jpeg', 'jpg', 'png', 'svg'];
@@ -30,29 +30,25 @@ if($_SERVER['REQUEST_METHOD'] === 'POST') {
     $extension = end($fileNameArr);
     $newName = md5(uniqid()) . '.' . $extension;
 
-    $message = [];
-    //Kiểm tra upload file có lỗi không
-    if($file['error'] === 0) {
-        //Validate file
-        if(!in_array($extension, $allowExt)) {
-            exit('Định dạng tập tin không đúng');
-        } else if ($fileSize > $allowSize) {
-            exit('Kích thước tập tin tối đa 1MB');
-        }
-
-        // upload file
-        if(empty($message)) {
-            $uploads = @move_uploaded_file($fileTmp, 'uploads/' . $newName);
-            if(!$uploads) {
-                exit('Di chuyển tập tin bị lỗi');
-            }else {
-                exit('Tải tập tin thành công');
-            }
-        }
-    } else {
+    //Kiểm tra tải tập tin có lỗi không?
+    if($file['error'] !== 0) {
         exit('Tập tin tải lên lỗi');
     }
 
+    //Validate file
+    if(!in_array($extension, $allowExt)) {
+        exit('Định dạng tập tin không đúng');
+    }
+    if($fileSize > $allowSize) {
+        exit('Kích thước tập tin tối đa 1MB');
+    }
+
+    // upload file
+    if(! @move_uploaded_file($fileTmp, 'uploads/' . $newName)) {
+        exit('Di chuyển tập tin bị lỗi');
+    }else {
+        exit('Tải tập tin thành công');
+    }
 }
 ?>
 
