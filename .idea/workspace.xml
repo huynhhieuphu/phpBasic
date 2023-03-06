@@ -24,6 +24,8 @@
   <component name="ChangeListManager">
     <list default="true" id="15d92598-08d9-47ea-8552-ff8a2f6dda9d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b1/method14/post/do_post.php" beforeDir="false" afterPath="$PROJECT_DIR$/b1/method14/post/do_post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b1/method14/validate/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/b1/method14/validate/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,12 +71,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/b1/method14/validate" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/b1/method14/validate" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/b1/method14" />
       <recent name="$PROJECT_DIR$/b1/function09/info01" />
@@ -159,7 +164,7 @@
       <workItem from="1675951954529" duration="5032000" />
       <workItem from="1676125840700" duration="1965000" />
       <workItem from="1676903117366" duration="2330000" />
-      <workItem from="1678068568075" duration="10093000" />
+      <workItem from="1678068568075" duration="13873000" />
     </task>
     <servers />
   </component>
@@ -179,10 +184,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="477" y="344" key="NewPhpFileDialog" timestamp="1678078266930">
+    <state x="477" y="344" key="NewPhpFileDialog" timestamp="1678088158208">
       <screen x="25" y="23" width="1255" height="777" />
     </state>
-    <state x="477" y="344" key="NewPhpFileDialog/25.23.1255.777@25.23.1255.777" timestamp="1678078266930" />
+    <state x="477" y="344" key="NewPhpFileDialog/25.23.1255.777@25.23.1255.777" timestamp="1678088158208" />
     <state x="161" y="50" key="SettingsEditor" timestamp="1672058922176">
       <screen x="25" y="23" width="1255" height="777" />
     </state>

@@ -25,6 +25,8 @@ if($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     echo 'Username: ' . $username . '<br>';
     echo 'Email: ' . $email . '<br>';
+} else {
+    echo 'Not Allow Method';
 }
 
 ?>

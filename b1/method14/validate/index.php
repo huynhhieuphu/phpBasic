@@ -1,3 +1,6 @@
+<?php
+    require_once 'function.php';
+?>
 <!doctype html>
 <html lang="en">
 <head>
@@ -48,7 +51,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST') {
     echo "</pre>";*/
 
     if (empty($error)) {
-        echo '<span style="font-size: 18px; color: green">Validate Success</span>';
+        redirect('list.php?message=1');
     } else {
         echo '<span style="font-size: 18px; color: red">Validate fail</span>';
     }
