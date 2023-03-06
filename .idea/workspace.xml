@@ -24,91 +24,7 @@
   <component name="ChangeListManager">
     <list default="true" id="15d92598-08d9-47ea-8552-ff8a2f6dda9d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/alternativeSyntax07/for.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/alternativeSyntax07/for.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/alternativeSyntax07/foreach.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/alternativeSyntax07/foreach.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/alternativeSyntax07/if.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/alternativeSyntax07/if.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/alternativeSyntax07/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/alternativeSyntax07/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/alternativeSyntax07/while.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/alternativeSyntax07/while.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/array11/execise1.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/array11/execise1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/array11/execise2.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/array11/execise2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/array11/execise3.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/array11/execise3.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/array11/execise4.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/array11/execise4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/array11/execise5.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/array11/execise5.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/array11/execise6.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/array11/execise6.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/array11/execise7.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/array11/execise7.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/array11/execise8.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/array11/execise8.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/array11/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/array11/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/array11/index2.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/array11/index2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/array11/index3.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/array11/index3.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/array11/myFunc.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/array11/myFunc.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/condition04/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/condition04/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/condition04/index02.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/condition04/index02.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/datatypes02/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/datatypes02/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/datetime13/advanced.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/datetime13/advanced.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/datetime13/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/datetime13/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/datetime13/info.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/datetime13/info.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/function09/extension/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/function09/extension/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/function09/extension/index2.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/function09/extension/index2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/function09/info01/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/function09/info01/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/function09/info01/index2.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/function09/info01/index2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/function09/info01/myFunc.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/function09/info01/myFunc.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/function09/info01/myFunction.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/function09/info01/myFunction.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/function09/info02/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/function09/info02/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/function09/info02/index2.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/function09/info02/index2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/function09/info02/index3.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/function09/info02/index3.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/function09/summary.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/function09/summary.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/import06/demo/include.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/import06/demo/include.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/import06/demo/require.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/import06/demo/require.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/import06/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/import06/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/import06/partials/content.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/import06/partials/content.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/import06/partials/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/import06/partials/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/import06/partials/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/import06/partials/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/isset_empty10/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/isset_empty10/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/loop05/do-while/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/loop05/do-while/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/loop05/for/ex01.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/loop05/for/ex01.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/loop05/for/ex02.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/loop05/for/ex02.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/loop05/for/ex03.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/loop05/for/ex03.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/loop05/for/ex04.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/loop05/for/ex04.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/loop05/for/ex05.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/loop05/for/ex05.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/loop05/for/ex06.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/loop05/for/ex06.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/loop05/for/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/loop05/for/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/loop05/keyword.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/loop05/keyword.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/loop05/while/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/loop05/while/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/method14/get.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/method14/get.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/method14/get/form.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/method14/get/form.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/method14/get/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/method14/get/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/method14/overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/basic/method14/overview.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/method14/post/do_post.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/method14/post/do_post.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/method14/post/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/method14/post/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/method14/post/index2.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/method14/post/index2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/method14/validate/checkbox.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/method14/validate/checkbox.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/method14/validate/checkbox2.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/method14/validate/checkbox2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/method14/validate/function.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/method14/validate/function.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/method14/validate/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/method14/validate/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/method14/validate/list.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/method14/validate/list.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/method14/validate_form.md" beforeDir="false" afterPath="$PROJECT_DIR$/basic/method14/validate_form.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/number12/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/number12/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/number12/index02.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/number12/index02.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/number12/index03.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/number12/index03.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/number12/index04.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/number12/index04.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/number12/index05.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/number12/index05.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/number12/index06.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/number12/index06.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/number12/index07.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/number12/index07.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/number12/index08.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/number12/index08.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/number12/index09.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/number12/index09.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/operators03/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/operators03/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/operators03/index02.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/operators03/index02.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/string08/ex01.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/string08/ex01.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/string08/ex02.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/string08/ex02.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/string08/ex03.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/string08/ex03.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/string08/ex04.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/string08/ex04.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/string08/ex05.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/string08/ex05.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/string08/ex06.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/string08/ex06.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/string08/ex07.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/string08/ex07.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/string08/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/string08/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/string08/index2.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/string08/index2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/string08/info.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/string08/info.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/var01/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/var01/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic02/uploadfile01/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic02/uploadfile01/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -247,7 +163,7 @@
       <workItem from="1675951954529" duration="5032000" />
       <workItem from="1676125840700" duration="1965000" />
       <workItem from="1676903117366" duration="2330000" />
-      <workItem from="1678068568075" duration="22532000" />
+      <workItem from="1678068568075" duration="22669000" />
     </task>
     <servers />
   </component>
