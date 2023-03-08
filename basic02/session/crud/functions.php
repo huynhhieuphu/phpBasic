@@ -7,7 +7,7 @@ function redirect($path) {
 }
 
 function hasSession($key){
-    if (!empty($_SESSION[$key])) {
+    if(!empty($_SESSION[$key])) {
         return true;
     }
     return false;
