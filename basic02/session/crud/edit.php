@@ -21,24 +21,20 @@ require_once 'functions.php';
 
 <?php
 
-$redirect = true;
+$redirect = false;
 $oldProduct = null;
-if(isset($_GET['id']) && !empty($_GET['id'])) {
-    $redirect = false;
-}
 
-if(!empty($_SESSION['products'])) {
-    foreach ($_SESSION['products'] as $productId => $item) {
-        if($productId == $_GET['id']) {
-            $oldProduct = $item;
-            break;
-        }
-    }
-} else {
+if(!isset($_GET['id']) && empty($_GET['id'])) {
     $redirect = true;
 }
 
-if(!$oldProduct) {
+if(empty($_SESSION['products'])) {
+    $redirect = true;
+}
+
+if(array_key_exists($_GET['id'], $_SESSION['products'])) {
+    $oldProduct = $_SESSION['products'][$_GET['id']];
+}else{
     $redirect = true;
 }
 
@@ -85,8 +81,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['btnUpdate'])){
 
         if ($updateData) {
             $_SESSION['products'][$productId] = $newProduct;
-            setSession('alertSuccess', '<div class="alert alert-success">Cập Nhật Thành Công</div>');
-            redirect('index.php');
+            $message['alertSuccess'] = '<div class="alert alert-success">Cập Nhật Thành Công</div>';
         }
 
         if(!$updateData) {
@@ -103,6 +98,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['btnUpdate'])){
             <h1>Cập Nhật Sản Phẩm</h1>
 
             <?php echo isset($message['alertFail']) ? $message['alertFail'] : false; ?>
+            <?php echo isset($message['alertSuccess']) ? $message['alertSuccess'] : false; ?>
 
         </div>
     </div>

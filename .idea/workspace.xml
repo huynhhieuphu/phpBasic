@@ -24,6 +24,7 @@
   <component name="ChangeListManager">
     <list default="true" id="15d92598-08d9-47ea-8552-ff8a2f6dda9d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic02/session/crud/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic02/session/crud/delete.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/basic02/session/crud/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic02/session/crud/edit.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/basic02/session/crud/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic02/session/crud/functions.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/basic02/session/crud/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic02/session/crud/index.php" afterDir="false" />
@@ -169,7 +170,7 @@
       <workItem from="1678068568075" duration="23199000" />
       <workItem from="1678158892228" duration="1986000" />
       <workItem from="1678162133425" duration="3705000" />
-      <workItem from="1678171303247" duration="15544000" />
+      <workItem from="1678171303247" duration="18257000" />
     </task>
     <servers />
   </component>

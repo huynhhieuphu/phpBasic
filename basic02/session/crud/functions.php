@@ -30,3 +30,10 @@ function getSession($key, $oneMore = false) {
     return $result;
 }
 
+function deleteSession($key) {
+    if(hasSession($key)) {
+        unset($_SESSION[$key]);
+    }
+    return false;
+}
+

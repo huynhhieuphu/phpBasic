@@ -11,6 +11,7 @@ require_once 'functions.php';
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Danh Sách Sản Phẩm</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
 </head>
 <body>
 
@@ -42,7 +43,7 @@ require_once 'functions.php';
                         <td><?= $product['product_name'] ?></td>
                         <td><?= number_format($product['product_price']) ?></td>
                         <td>
-                            <a href="delete.php?id=<?= $product['product_id'] ?>" target="_self" class="btn btn-danger" title="Xoá">Xoá</a>
+                            <a href="delete.php?id=<?= $product['product_id'] ?>" target="_self" class="btn btn-danger" title="Xoá" onclick="return confirm('Bạn có chắc xoá')">Xoá</a>
                             <a href="edit.php?id=<?= $product['product_id'] ?>" target="_self" class="btn btn-primary" title="Cập nhật">Cập nhật</a>
                         </td>
                     </tr>
