@@ -1,30 +1,22 @@
 <?php
-require_once 'functions.php';
-
+require_once 'config.php';
+$title = 'Danh Sách Sản Phẩm';
+include_once 'partials/header.php';
 ?>
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Danh Sách Sản Phẩm</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
-</head>
-<body>
 
 <div class="container">
     <div class="row">
         <div class="col-12">
             <?= getSession('alertSuccess', true); ?>
-            <h1>Danh Sách Sản Phẩm</h1>
+            <h1><?= $title ?? '' ?></h1>
             <a href="create.php" target="_self" class="btn btn-success mb-2" title="Thêm mới">Thêm mới</a>
         </div>
     </div>
     <div class="row">
         <div class="col-12">
+            <form method="post" action="delete.php" name="form_products" id="form_products">
+                <input type="hidden" name="product_id" id="product_id" value="0">
+
             <table class="table table-bordered">
                 <thead>
                 <tr>
@@ -43,7 +35,8 @@ require_once 'functions.php';
                         <td><?= $product['product_name'] ?></td>
                         <td><?= number_format($product['product_price']) ?></td>
                         <td>
-                            <a href="delete.php?id=<?= $product['product_id'] ?>" target="_self" class="btn btn-danger" title="Xoá" onclick="return confirm('Bạn có chắc xoá')">Xoá</a>
+                            <a href="javascript:void(0);" class="btn btn-danger" title="Xoá"
+                               onclick="actionDelete('form_products', 'product_id', '<?= $product["product_id"] ?>')">Xoá</a>
                             <a href="edit.php?id=<?= $product['product_id'] ?>" target="_self" class="btn btn-primary" title="Cập nhật">Cập nhật</a>
                         </td>
                     </tr>
@@ -57,9 +50,12 @@ require_once 'functions.php';
 
                 </tbody>
             </table>
+
+            </form>
         </div>
     </div>
 </div>
 
-</body>
-</html>
+<?php
+include_once 'partials/footer.php';
+?>

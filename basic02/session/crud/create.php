@@ -1,26 +1,10 @@
 <?php
-    require_once 'functions.php';
+require_once 'config.php';
+$title = 'Thêm Mới Sản Phẩm';
+include_once 'partials/header.php';
 ?>
 
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Thêm Mới Sản Phẩm</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
-    <style>
-        .border-red {
-            border-color: red;
-        }
-    </style>
-</head>
-<body>
-
 <?php
-
     if($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['btnAdd'])){
         $productName = isset($_POST['product_name']) ? trim($_POST['product_name']) : null;
         $productPrice = isset($_POST['product_price']) ? trim($_POST['product_price']) : null;
@@ -75,7 +59,7 @@
 <div class="container">
     <div class="row">
         <div class="col-12">
-            <h1>Thêm Mới Sản Phẩm</h1>
+            <h1><?= $title ?? '' ?></h1>
 
             <?php echo isset($message['alertFail']) ? $message['alertFail'] : false; ?>
 
@@ -109,5 +93,6 @@
     </div>
 </div>
 
-</body>
-</html>
+<?php
+include_once 'partials/footer.php';
+?>

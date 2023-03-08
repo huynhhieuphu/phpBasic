@@ -1,23 +1,8 @@
 <?php
-require_once 'functions.php';
+require_once 'config.php';
+$title = 'Cập Nhật Sản Phẩm';
+include_once 'partials/header.php';
 ?>
-
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Cập Nhật Sản Phẩm</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
-    <style>
-        .border-red {
-            border-color: red;
-        }
-    </style>
-</head>
-<body>
 
 <?php
 
@@ -95,7 +80,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['btnUpdate'])){
 <div class="container">
     <div class="row">
         <div class="col-12">
-            <h1>Cập Nhật Sản Phẩm</h1>
+            <h1><?= $title ?? '' ?></h1>
 
             <?php echo isset($message['alertFail']) ? $message['alertFail'] : false; ?>
             <?php echo isset($message['alertSuccess']) ? $message['alertSuccess'] : false; ?>
@@ -131,5 +116,6 @@ if($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['btnUpdate'])){
     </div>
 </div>
 
-</body>
-</html>
+<?php
+include_once 'partials/footer.php';
+?>
