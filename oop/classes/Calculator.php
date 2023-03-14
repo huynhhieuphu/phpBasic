@@ -17,13 +17,13 @@ class Calculator {
         // Hàm khởi tạo
         echo 'Hàm khởi tạo' . '<br>';
 
-        // Khi hàm khởi tạo, gán giá trị vào thuộc tính.
+        // Gán giá trị vào thuộc tính.
         $this->numberD = 'Value numberD';
 
-        // Gán đối tượng vào thuộc tính của class
+        // Gán đối tượng vào thuộc tính.
         $this->math = new Math();
 
-        // Truyền tham số vào hàm khởi tạo.
+        // lấy tham số truyền vào hàm khởi tạo.
         var_dump($config);
     }
 
