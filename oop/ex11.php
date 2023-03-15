@@ -25,3 +25,6 @@ print_r($auth::_MSG_TEMPLATE);
 echo '<hr>';
 
 echo $auth->checkRole();
+echo '<hr>';
+
+echo $auth->bar();
