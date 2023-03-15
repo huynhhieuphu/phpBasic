@@ -2,7 +2,7 @@
 class CategoryRepository extends BaseRepository implements CategoryRepositoryInterface {
 
     public function getModel() {
-        return new Category();
+        return new Category(); //Khởi tạo model Category
     }
 
     public function getCategory() {
