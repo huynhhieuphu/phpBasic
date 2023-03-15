@@ -1,4 +1,14 @@
 <?php
+/**
+ * Phương thức __contruct() và __destruct()
+ *
+ * Những hành động có thể làm trong hàm __contruct() :
+ * - Tham số truyền vào hàm khởi tạo
+ * - Gán giá trị cho thuộc tính
+ * - Lấy đối tượng làm trung gian (gán đối tượng vào thuộc tính)
+ *
+ * Sử dụng hằng số có sẵn: __CLASS__ , __METHOD__
+ */
 require_once 'classes/Math.php';
 require_once 'classes/Calculator.php';
 

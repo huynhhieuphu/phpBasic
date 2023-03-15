@@ -1,4 +1,8 @@
 <?php
+/**
+ * class - object
+ * truy cập thuộc tính, phương thức và HẰNG SỐ bên ngoài class
+ */
 
 // Khai báo lớp
 class Calculator {

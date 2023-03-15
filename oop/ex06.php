@@ -1,4 +1,7 @@
 <?php
+/*
+ * Kế thừa
+ */
 require_once 'classes/Database.php';
 require_once 'classes/Model.php';
 

@@ -1,4 +1,7 @@
 <?php
+/*
+ * Tính chất static khi khởi tạo đối tượng nhiều lần
+ */
 require_once 'classes/Number.php';
 
 $numA = new Number();

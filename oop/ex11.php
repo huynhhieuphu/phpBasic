@@ -1,4 +1,8 @@
 <?php
+/**
+ * Interface Template
+ */
+
 require_once 'interfaces/BarInterface.php';
 
 require_once 'interfaces/BooInterface.php';

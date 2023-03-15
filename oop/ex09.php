@@ -1,4 +1,7 @@
 <?php
+/*
+ * sự khác nhau self::methodName() và static::methodName()
+ */
 require_once 'classes/Animal.php';
 require_once 'classes/Dog.php';
 

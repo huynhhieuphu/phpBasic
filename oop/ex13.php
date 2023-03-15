@@ -1,4 +1,7 @@
 <?php
+/**
+ * Các phương thức Magic
+ */
 require_once 'classes/Math.php';
 
 

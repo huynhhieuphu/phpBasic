@@ -1,4 +1,7 @@
 <?php
+/**
+ * Các hàm kiểm tra tồn tại property và method
+ */
 require_once 'classes/Calculator.php';
 
 $calc = new Calculator();

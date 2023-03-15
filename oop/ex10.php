@@ -1,4 +1,7 @@
 <?php
+/**
+ * Abstract Class
+ */
 require_once 'classes/AbstractClass.php';
 require_once 'classes/ProductClass.php';
 

@@ -1,4 +1,8 @@
 <?php
+/**
+ * Demo Design Pattern Repository
+ */
+
 // Controller - Lớp xử lý logic
 require_once 'interfaces/RepositoryInterface.php';
 require_once 'interfaces/CategoryRepositoryInterface.php';

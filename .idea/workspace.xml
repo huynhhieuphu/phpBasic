@@ -24,7 +24,20 @@
   <component name="ChangeListManager">
     <list default="true" id="15d92598-08d9-47ea-8552-ff8a2f6dda9d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/classes/Math.php" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classes/Math.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/classes/Calculator.php" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classes/Calculator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/ex01.php" beforeDir="false" afterPath="$PROJECT_DIR$/oop/ex01.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/ex02.php" beforeDir="false" afterPath="$PROJECT_DIR$/oop/ex02.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/ex03.php" beforeDir="false" afterPath="$PROJECT_DIR$/oop/ex03.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/ex04.php" beforeDir="false" afterPath="$PROJECT_DIR$/oop/ex04.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/ex05.php" beforeDir="false" afterPath="$PROJECT_DIR$/oop/ex05.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/ex06.php" beforeDir="false" afterPath="$PROJECT_DIR$/oop/ex06.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/ex07.php" beforeDir="false" afterPath="$PROJECT_DIR$/oop/ex07.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/ex08.php" beforeDir="false" afterPath="$PROJECT_DIR$/oop/ex08.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/ex09.php" beforeDir="false" afterPath="$PROJECT_DIR$/oop/ex09.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/ex10.php" beforeDir="false" afterPath="$PROJECT_DIR$/oop/ex10.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/ex11.php" beforeDir="false" afterPath="$PROJECT_DIR$/oop/ex11.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/ex12.php" beforeDir="false" afterPath="$PROJECT_DIR$/oop/ex12.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/ex13.php" beforeDir="false" afterPath="$PROJECT_DIR$/oop/ex13.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +192,7 @@
       <workItem from="1678171303247" duration="21850000" />
       <workItem from="1678418320336" duration="6612000" />
       <workItem from="1678683770316" duration="6400000" />
-      <workItem from="1678758915758" duration="17833000" />
+      <workItem from="1678758915758" duration="20974000" />
     </task>
     <servers />
   </component>

@@ -1,6 +1,8 @@
 <?php
+/*
+ * static
+ */
 require_once 'classes/Student.php';
-
 
 // truy cập thuộc tính static
 echo Student::$fullName;

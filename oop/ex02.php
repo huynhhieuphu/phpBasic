@@ -1,4 +1,7 @@
 <?php
+/**
+ * Truy cập thuộc tính, phương thức và HẰNG SỐ bên ngoài class
+ */
 require_once 'classes/Calculator.php';
 
 $calc = new Calculator();
