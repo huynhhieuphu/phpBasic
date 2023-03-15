@@ -1,4 +1,5 @@
 <?php
+// Controller - Lớp xử lý logic
 require_once 'interfaces/RepositoryInterface.php';
 require_once 'interfaces/CategoryRepositoryInterface.php';
 require_once 'classes/BaseRepository.php';
@@ -7,8 +8,8 @@ require_once 'classes/CategoryRepository.php';
 
 $categoryRepo = new CategoryRepository();
 
-echo $categoryRepo->getCategory();
+$categories = $categoryRepo->getCategory();
 echo '<hr>';
-echo $categoryRepo->getDetailCategory(1);
+$category = $categoryRepo->getDetailCategory(1);
 echo '<hr>';
 $categoryRepo->addCategory('new data');

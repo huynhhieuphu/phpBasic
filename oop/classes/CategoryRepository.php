@@ -1,4 +1,5 @@
 <?php
+// Lớp trung gian
 class CategoryRepository extends BaseRepository implements CategoryRepositoryInterface {
 
     public function getModel() {
