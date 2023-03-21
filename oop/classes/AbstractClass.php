@@ -1,6 +1,6 @@
 <?php
 
-// Khai báo abstract class
+// Định nghĩa abstract class
 abstract class AbstractClass
 {
     protected $msg;

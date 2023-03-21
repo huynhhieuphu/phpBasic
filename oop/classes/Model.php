@@ -6,7 +6,7 @@ class Model extends Database {
 
     public function __construct($table = null)
     {
-        // Kế thừa toàn bộ code có trong hàm khởi tạo.
+        // Truy cập tới hàm khởi tạo của class cha.
         parent::__construct();
 
         // Gán giá trị cho thuộc tính của lớp cha khi khởi tạo đối tượng lớp con
@@ -14,15 +14,15 @@ class Model extends Database {
     }
 
     public function getData() {
-        // truy cập đến phương thức của lớp cha
+        // Truy cập đến phương thức có trong lớp cha
         $this->fetch();
     }
 
-    // Lưu ý khi đặt tên phương thức trùng với phương thức của lớp Cha không được dùng từ khoá $this
-    // Vì sẽ hiểu lầm gọi lại chính phương thức đó (đệ quy)
+    // TH: Tên phương thức lớp con trùng với phương thức của lớp Cha mà muốn truy cập tới phương thức class cha
+    // không dùng từ khoá $this Vì sẽ hiểu lầm gọi lại chính phương thức đó (đệ quy)
     public function fetch()
     {
-        // Dùng lại phương thức của lớp cha
+        // Dùng parent::methodName() để truy cập tới phương thức cha
         parent::fetch();
     }
 

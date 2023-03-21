@@ -23,14 +23,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15d92598-08d9-47ea-8552-ff8a2f6dda9d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/phpbasic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/phpbasic.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/classes/AbstractClass.php" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classes/AbstractClass.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/classes/Animal.php" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classes/Animal.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/classes/Model.php" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classes/Model.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -38,6 +43,7 @@
       <list>
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="composer.json" />
       </list>
     </option>
   </component>
@@ -66,6 +72,12 @@
       </RecentBranches>
     </option>
   </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/composer/vendor/composer" />
+      <path value="$PROJECT_DIR$/composer/vendor/phpmailer/phpmailer" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="29tAxp7UME7QKbKHNE13kNyTKGc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -77,24 +89,24 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/oop/classes/Home" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/oop/classes/Home" />
-      <recent name="$PROJECT_DIR$/basic02/uploadfile01/uploads" />
-      <recent name="$PROJECT_DIR$/b1/method14/validate" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/composer/app" />
       <recent name="$PROJECT_DIR$/oop/classes" />
       <recent name="$PROJECT_DIR$/oop" />
       <recent name="$PROJECT_DIR$/basicMysql" />
       <recent name="$PROJECT_DIR$/basic02/session/crud/public/css" />
-      <recent name="$PROJECT_DIR$/basic02/uploadfile01" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/oop/classes/Home" />
+      <recent name="$PROJECT_DIR$/basic02/uploadfile01/uploads" />
+      <recent name="$PROJECT_DIR$/b1/method14/validate" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -180,7 +192,10 @@
       <workItem from="1678418320336" duration="6612000" />
       <workItem from="1678683770316" duration="6400000" />
       <workItem from="1678758915758" duration="29509000" />
-      <workItem from="1678956851469" duration="940000" />
+      <workItem from="1678956851469" duration="2299000" />
+      <workItem from="1679286767472" duration="20000" />
+      <workItem from="1679295099352" duration="5100000" />
+      <workItem from="1679388584195" duration="2618000" />
     </task>
     <servers />
   </component>
@@ -212,11 +227,11 @@
       <screen x="25" y="23" width="1255" height="777" />
     </state>
     <state x="390" y="173" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/25.23.1255.777@25.23.1255.777" timestamp="1678953464797" />
-    <state x="477" y="344" key="NewPhpFileDialog" timestamp="1678957197162">
+    <state x="477" y="344" key="NewPhpFileDialog" timestamp="1679298513169">
       <screen x="25" y="23" width="1255" height="777" />
     </state>
     <state x="461" y="331" key="NewPhpFileDialog/0.0.1280.800@0.0.1280.800" timestamp="1678852478023" />
-    <state x="477" y="344" key="NewPhpFileDialog/25.23.1255.777@25.23.1255.777" timestamp="1678957197162" />
+    <state x="477" y="344" key="NewPhpFileDialog/25.23.1255.777@25.23.1255.777" timestamp="1679298513169" />
     <state x="398" y="127" key="RollbackChangesDialog" timestamp="1678163849672">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
